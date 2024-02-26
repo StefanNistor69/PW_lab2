@@ -44,11 +44,15 @@ body {
     border-radius: 50px;
     cursor: pointer;
     margin:auto;
+    font-size: small;
+    
     
   }
   .button:hover{
     opacity: 50%;
   }
+
+  
   .clients {
     display: flex;
     justify-content: space-between;
@@ -107,6 +111,22 @@ body {
     padding: 5px;
   }
   
+  .info-section a{
+    
+    font-family: 'Lucida Sans', sans-serif;
+    text-decoration: none;
+    padding: 15px 20px;
+  }
+.info-section p{
+
+
+  margin-bottom: 30px;
+}
+
+  .info-section button{
+
+   font-size: small;
+  }
   .card {
     background: #fff;
     border-radius: 10px;
@@ -168,7 +188,7 @@ body {
     padding: 10px 20px;
     border-radius: 20px; /* Rounded corners for the button */
     border: none; /* Remove the default border */
-    background-color: #006adb; /* Background color for the button */
+    background-color: rgb(0, 82, 204); /* Background color for the button */
     color: white; /* Text color for the button */
     cursor: pointer; /* Cursor effect when hovering the button */
   }
