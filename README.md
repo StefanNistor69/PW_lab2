@@ -21,22 +21,22 @@ The landing page is designed to provide a snapshot of the different projects tha
 Here are some visuals to give you a glimpse into the landing page design:
 
 ### Navbar and Introduction
-![Navbar and Introduction](screenshots\navbar.png)
+![Navbar and Introduction](screenshots/navbar.png)
 
 ### Main Content
-![Main Content](screenshots\main.pngURL_TO_SCREENSHOT)
+![Main Content](/screenshots/main.png)
 
 ### Collaborative Work
-![Collaborative Work](screenshots\client.png)
+![Collaborative Work](screenshots/client.png)
 
 ### Assistance Section
-![Assistance Section](screenshots\help.png)
+![Assistance Section](screenshots/help.png)
 
 ### Updates Subscription
-![Updates Subscription](screenshots\newsletter.png)
+![Updates Subscription](screenshots/newsletter.png)
 
 ### Additional Resources
-![Additional Resources](screenshots\info.png)
+![Additional Resources](screenshots/info.png)
 
 ## Live Page
 
