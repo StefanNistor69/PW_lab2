@@ -133,9 +133,16 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     max-width: 100px;
+    min-height: 155px;
     text-align: center;
     /* Cards will take the full width of the .cards-column container */
   }
+  .card1,.card3{
+    position: relative;
+    top: -40px;
+  }
+  
+  
   .card img{
 
     max-width: 100%; /* Ensures the image is responsive and fits the card */
@@ -150,7 +157,13 @@ body {
     height: 60px; /* Adjust size as needed */
     margin-bottom: 20px;
   }
+  .card1,.card2,.card3,.card4{
 
+    height: 193px !important;
+    width: 140px !important;
+    
+
+  }
   .newsletter-section {
     padding: 50px 20px; /* Adjust padding as needed */
     max-width: 1200px; /* This limits the maximum width of the div */
